@@ -6,8 +6,7 @@
 - 🔭 I'm a Digital Marketer and Sales Consultant
 - 🌱 I'm Currently Learning Data analytics, Python and R
 - 🤔 I’m looking for help with finding better learning metirial
-- 📫 Reach me Via this link: [![WhatsApp Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/WhatsApp_Logo_2023.png)](https://wa.me/message/6XYIH25QAEGEI1)
-
+- 📫 Reach me Via this link: [![WhatsApp](https://img.shields.io/badge/WhatsApp-%238DC83E.svg?logo=whatsapp&logoColor=white)](https://wa.me/message/6XYIH25QAEGEI1)
 
 
 ## 🌐 Socials:
