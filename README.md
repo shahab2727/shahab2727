@@ -1,6 +1,4 @@
-## Hi there 👋
-
-
+## Hi! 👋
 
 # 💫 About Me:
 - 🔭 I'm a Digital Marketer and Sales Consultant
